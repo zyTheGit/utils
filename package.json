@@ -1,0 +1,24 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "工具类",
+  "source": "src/index.ts",
+  "main": "dist/utils.js",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyTheGit/utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyTheGit/utils/issues"
+  },
+  "homepage": "https://github.com/zyTheGit/utils#readme",
+  "dependencies": {
+    "microbundle": "^0.13.0"
+  }
+}
